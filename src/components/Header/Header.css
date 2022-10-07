@@ -1,0 +1,29 @@
+
+
+.header-nav{
+    height: 80px;
+    background: #1C2B35;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+/* .link {
+    
+} */
+.link a{
+    color: #fff;
+    text-decoration: none;
+    padding-right: 30px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+}
+.link a:hover{
+    color: rgb(223, 22, 22);
+    
+}
